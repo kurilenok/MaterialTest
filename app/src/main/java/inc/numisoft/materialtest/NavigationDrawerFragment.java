@@ -39,6 +39,8 @@ public class NavigationDrawerFragment extends Fragment {
         // Inflate the layout for this fragment
 
 
+        // comment
+
         View layout = inflater.inflate(R.layout.fragment_navigation_drawer, container, false);
 
         recyclerView = (RecyclerView) layout.findViewById(R.id.drawerList);
